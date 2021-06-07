@@ -6,3 +6,7 @@ Web design workshop(2021) using ReactJS by apssdc
 #### heading 4
 ##### heading 5
 ###### heading 6
+
+**Bold font style**
+*Italic font style*
+***Both bold and italic***
