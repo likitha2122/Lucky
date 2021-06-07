@@ -25,7 +25,7 @@ Web design workshop(2021) using ReactJS by apssdc
 
 *to display links*
 
-###### [name](link)
+*syntax [name](link to be added)*
 
 [google](https://wwww.google.com)
 
@@ -33,5 +33,7 @@ Web design workshop(2021) using ReactJS by apssdc
 
 
 *to add imagee*
+
+*syntax ![name](link to be added)*
 
 ![Tajmahal](https://cdn.britannica.com/86/170586-050-AB7FEFAE/Taj-Mahal-Agra-India.jpg)
