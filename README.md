@@ -10,3 +10,17 @@ Web design workshop(2021) using ReactJS by apssdc
 **Bold font style**
 *Italic font style*
 ***Both bold and italic***
+
+*ordered list*
+
+1. Fruits
+   1. orange
+   2. mango
+
+*unordered list*
+
+*  Vegetables
+   * tomato
+   * potato
+
+*to display links*
