@@ -37,3 +37,23 @@ Web design workshop(2021) using ReactJS by apssdc
 *syntax ![name](link to be added)*
 
 ![Tajmahal](https://cdn.britannica.com/86/170586-050-AB7FEFAE/Taj-Mahal-Agra-India.jpg)
+
+*to add table*
+
+Name | Number
+-----|-------
+liki|12345
+vijay|67890
+
+
+* to add function*
+
+*syntaxv: tild 3 times langname
+program
+tild 3 times*
+
+
+```python
+def hello():
+   print("hii")
+```
